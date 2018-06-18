@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.onesignal:OneSignal-3.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-onesignal/android/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.8.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-onesignal/android/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.8.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onesignal/OneSignal/3.8.3/bc193aa92f805c1e17c56fad02ed94ab5a2890ac/OneSignal-3.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

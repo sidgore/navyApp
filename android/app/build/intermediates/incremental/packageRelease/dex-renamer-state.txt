@@ -1,0 +1,4 @@
+#Mon Jun 11 21:56:15 PDT 2018
+base.0=/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

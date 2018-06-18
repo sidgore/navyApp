@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c95ee48a648bbf975af966e135d8b359fc611376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_388aba57b1371ac7b8decb9d3969eb1284ba5b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_a75bbe1f9044c5565d2d317d7696e6fd069a4122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.0.4_d56a6693576590edc4e64386eaabbc036d67916c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_16d5f6eb76b332f786416ab43e04d6143524ae7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_9cae30f3c2e826eb417ff0c8deea28c5e9e1f961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_c4534c3aa6df39058294a4779afacae9cacea736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_91ea1117e7db25e425c771f036e01999c703fcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8f47da7f01ae8cc79951bb0a9671aec2f5c0dfc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/wizeyemobileapp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/wizeyemobileapp-react-native-vector-icons-unspecified_846f11801804de2df80be5b0415d6c7eff396879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_01005733bbf9606b2818c68b63d127deefe366db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_130e0a335af9c06c9579fce86766063cb112df56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_63df42bb3b11603f23950e683c13fab04c2da5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/wizeyemobileapp/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bd1a25ef7ba344a59c4acbe29fb7a19dab1a327">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/wizeyemobileapp-react-native-onesignal-unspecified_35a272ca35a42532236b21550a61cf6e4dcb3f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c8e92090ff24249b2e55a1f3f61b842e42ae8c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f80cdb1aef03e86b4d215467f604e87ec6e25092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0beedcd6f331fd418d33416ae4a872f07e49258c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e5f3bf5abe1f2c7808417f912a07448c9c803a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_8b474707f79d1f9af288400a064635adbe065391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0936ac5e103489c8b63111057dadebc8396e7a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_49f89d8cfd81d4f23e2d957d076fc64472f18379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_44fee32b9a9d6204883fcd5490940d4db2588f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8be64192b96f543d86a444214a5e07ba6fe07905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_85378293986287b93ebb9da4a4d85fd171f9c198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_0d4519ece2cbfc98dea4038076f43ee70d3912ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.8.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf6612d60ed35a3c41a708b94f83ec376c955382">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-3.8.3_97bb34a85cde5152e9d4f67279e4c935eda5ab01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/wizeyemobileapp/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85c816859f3f8ea884d5e6e0a8f5ea1df7023d3a">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/wizeyemobileapp-react-native-device-info-unspecified_e5e0f58a90facf2e8d6b707a9b46039c8b22257a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_f72268096748bec2304fc1345914547d15274cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_3b9b6801e64d84f4a43f4fe4a1f27dd48e7a1f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_37f33ceacca3df290bb5707f294cdde66fee3208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_bfd54cc416d7d0d08fd2c1aa820a12176417e464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8b4aac14fd6e53b3f6d6c39c873e3414f770e2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_4e01edc0c2f931715a341a0f2b4276ee3208339a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cbf518bea1e09a382e8e72ef5bf2a88c7b9c8a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/siddharthgore/Office/wizeyemobileapp_production/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_929b46497f150fcab8db30f221504e581db3cd82.jar" />
+    </item>
+
+</items>
